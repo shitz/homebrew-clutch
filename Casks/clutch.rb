@@ -1,9 +1,9 @@
 cask "clutch" do
-  version "0.14.1"
-  sha256 "47dd3fd18747282fa1e9ec850773d0648db8229e34309def87558852d8e54484"
+  version "0.14.2"
+  sha256 "b7d274c08911649838a8ff8b17637d2f7ac097e2d672d64ef559c6406ab84a8d"
 
   # The exact URL of the .dmg from your GitHub Releases
-  url "https://github.com/shitz/clutch/releases/download/v#{version}/Clutch_#{version}_aarch64.dmg"
+  url "https://github.com/shitz/clutch/releases/download/v0.14.2/Clutch_0.14.2_aarch64.dmg"
 
   name "Clutch"
   desc "A modern transmission RPC client built in pure Rust using iced."
